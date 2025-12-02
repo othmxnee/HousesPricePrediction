@@ -1,1 +1,5 @@
-# HousesPricePrediction
+Project Description
+
+This project is a full exploratory analysis of a housing dataset, built entirely inside a Jupyter Notebook. It follows a structured workflow used in real data-science projects: loading the dataset, cleaning missing or inconsistent values, exploring each feature, and understanding how different variables influence house prices. The notebook also includes visualizations to highlight patterns in the data, along with basic preprocessing steps that prepare the dataset for modeling.
+
+The goal of the project is not only to analyze the dataset, but also to serve as a practical template for anyone learning regression techniques or starting a predictive modeling workflow. The code is written in a simple and organized way so readers can easily follow the logic behind each transformation or decision. This makes the notebook suitable for students, beginners in machine learning, or anyone looking for a clear example of exploratory data analysis applied to real-world housing data.
